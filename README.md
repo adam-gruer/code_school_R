@@ -1,2 +1,2 @@
 # code_school_R
-lessons teaching R
+collection of lessons for teaching R
